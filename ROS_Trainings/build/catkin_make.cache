@@ -1,0 +1,2 @@
+advanced_ros_demo:beginner_ros_demo
+-DCATKIN_DEVEL_PREFIX=/home/dan/Code/RMC20_Trainings/ROS_Trainings/devel -DCMAKE_INSTALL_PREFIX=/home/dan/Code/RMC20_Trainings/ROS_Trainings/install -G Unix Makefiles

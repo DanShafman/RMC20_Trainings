@@ -1,0 +1,8 @@
+prefix=/home/dan/Code/RMC20_Trainings/ROS_Trainings/install
+
+Name: beginner_ros_demo
+Description: Description of beginner_ros_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dan/Code/RMC20_Trainings/ROS_Trainings/install/lib 
+Requires: 

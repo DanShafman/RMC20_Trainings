@@ -1,0 +1,8 @@
+prefix=/home/dan/Code/RMC20_Trainings/ROS_Trainings/install
+
+Name: advanced_ros_demo
+Description: Description of advanced_ros_demo
+Version: 0.0.0
+Cflags: -I/home/dan/Code/RMC20_Trainings/ROS_Trainings/install/include
+Libs: -L/home/dan/Code/RMC20_Trainings/ROS_Trainings/install/lib 
+Requires: rospy std_msgs message_runtime
